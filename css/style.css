@@ -323,6 +323,21 @@ body {
     transform: translateY(-2px);
 }
 
+.btn-cv {
+    background: transparent;
+    color: var(--text-primary);
+    border: 1.5px dashed var(--accent);
+    gap: 6px;
+}
+
+.btn-cv:hover {
+    background: var(--accent);
+    color: #fff;
+    border-style: solid;
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(232, 93, 38, 0.3);
+}
+
 .btn-full {
     width: 100%;
     justify-content: center;
@@ -822,6 +837,11 @@ body {
 .cert-logo.ingles {
     background: rgba(34, 197, 94, 0.1);
     color: #22c55e;
+}
+
+.cert-logo.gad {
+    background: rgba(37, 99, 235, 0.1);
+    color: #2563eb;
 }
 
 .cert-info {
