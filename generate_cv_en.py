@@ -266,6 +266,16 @@ def generate_pdf():
     )
 
     add_experience(
+        "Developer — Pre-Professional Internship", "Jun 2026 – Aug 2026",
+        "Empresa Electrica Azogues C.A. · IT Department (96 hours)",
+        [
+            "Web development and requirements analysis for SAR Reclamos and PAC System.",
+            "Managed PostgreSQL databases, Python (Django), and AI integration (Copilot).",
+            "Migrated and configured Windows production servers, networking, and virtualization."
+        ]
+    )
+
+    add_experience(
         "Developer — PACTE Project", "2024 – 2025",
         "Superior Technological Institute of Austro · Azogues",
         [

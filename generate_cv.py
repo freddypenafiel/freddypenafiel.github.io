@@ -273,6 +273,16 @@ def generate_pdf():
     )
 
     add_experience(
+        "Desarrollador — Prácticas Pre-Profesionales", "Jun 2026 – Ago 2026",
+        "Empresa Eléctrica Azogues C.A. · Área de Informática (96 horas)",
+        [
+            "Desarrollo web y levantamiento de requerimientos para SAR Reclamos y Sistema PAC.",
+            "Gestión en PostgreSQL, Python (Django) e integración de IA (Copilot).",
+            "Migración y configuración de servidores de producción Windows, redes y virtualización."
+        ]
+    )
+
+    add_experience(
         "Desarrollador — Proyecto PACTE", "2024 – 2025",
         "Instituto Superior Tecnológico del Austro · Azogues",
         [
